@@ -41,7 +41,8 @@
   1. App service generally wins on **total cost of ownership** unless VM level control is required
   2. App service is superior for elasticity and operational simplicity
   3. App service delivers higher default availability with less effort
-  4. 
+     
 ### Assess app changes that would change your decision.
 
 *Detail how the app and any other needs would have to change for you to change your decision in the last section.* 
+- If there is requirement for security or the app becomes a long running stable worklaod then I would think about moving to a VM.
